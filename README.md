@@ -1,6 +1,6 @@
 # introduction-to-c-lang
-c++ language
-~~this line is incorrect~~ 
-This text is bold **hello bold**
+1.c++ language
+2.~~this line is incorrect~~ 
+3.This text is bold **hello bold**
 # c++ is programming language
 
